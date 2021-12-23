@@ -7,7 +7,7 @@ module.exports = {
       {
         nome: 'Gabriel Gueiros',
         ativo: true,
-        email: 'gabrielrgueiros@live.com',
+        email: 'gabrielrgueiros@gabriel.com',
         role: 'estudante',
         createdAt: new Date(),
         updatedAt: new Date()
